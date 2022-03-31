@@ -41,6 +41,5 @@ What's important to me: Readable code, documentation, best practices
 3. Always getting back to basics >>> data structures and algorithms
 
 -------------------------------------------------------
-**Portfolio** (in progress): https://github.com/amtsatterfield/amtsatterfield
 
 💬 *Curious about GIS and Python? Reach out to me at maggie.satterfield@gmail.com!*
