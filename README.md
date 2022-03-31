@@ -23,17 +23,17 @@ programmer to software engineer.
 ------------------------------------------------------
 Primary language: *Python* 🐍
 
-####💻 I'm currently working on...  
+**💻 I'm currently working on...**  
 1. Automating spatial data creation workflows for the Bureau of Ocean and Energy Management (BOEM)
 2. Deriving bathhymetric data along the coast of Hawaii using satellite imagery and Machine Learning
 3. Tutoring graduate students in their GIS spatial analysis classes
 
-####📚 I'm currently learning...
+**📚 I'm currently learning...**
 1. Machine learning foundations, processes, and algorithms
 2. JavaScript
 3. Google Cloud Platform
 
-####🌱 I'm interested in...
+**🌱 I'm interested in...**
 1. Earth and space sciences
 2. Backend software engineering
 3. Getting back to basics >>> data structures and algorithms
