@@ -22,7 +22,7 @@ programmer to software engineer.
 
 ------------------------------------------------------
 Primary language: *Python* 🐍  
-Other great skills: Communicating technical concepts, troubleshooting, writing technical docs
+Other great skills: Communicating technical concepts, troubleshooting, writing technical docs  
 What's important to me: Readable code, documentation, best practices
 
 **💻 I'm currently working on...**  
