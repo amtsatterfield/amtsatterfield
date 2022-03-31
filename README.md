@@ -22,6 +22,8 @@ programmer to software engineer.
 
 ------------------------------------------------------
 Primary language: *Python* 🐍
+Other great skills: Communicating technical concepts, troubleshooting, writing technical docs
+What's important to me: Readable code, documentation, best practices
 
 **💻 I'm currently working on...**  
 1. Automating spatial data creation workflows for the Bureau of Ocean and Energy Management (BOEM)
@@ -31,12 +33,12 @@ Primary language: *Python* 🐍
 **📚 I'm currently learning...**
 1. Machine learning foundations, processes, and algorithms
 2. JavaScript
-3. Google Cloud Platform
+3. Cloud patforms (AWS)
 
 **🌱 I'm interested in...**
 1. Earth and space sciences
 2. Backend software engineering
-3. Getting back to basics >>> data structures and algorithms
+3. Always getting back to basics >>> data structures and algorithms
 
 -------------------------------------------------------
 **Portfolio** (in progress): https://github.com/amtsatterfield/amtsatterfield
